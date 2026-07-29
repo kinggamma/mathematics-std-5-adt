@@ -45046,7 +45046,12 @@ function useAtomValueWithDelay<Value>(
   }
   function elementSupportsWordHighlight(element) {
     const tag = element.tagName.toLowerCase();
-    return tag !== "img" && tag !== "input" && tag !== "textarea" && tag !== "select";
+    if (tag === "img" || tag === "input" || tag === "textarea" || tag === "select") {
+      return false;
+    }
+    return !element.querySelector(
+      ":scope > div, :scope > section, :scope > table, :scope > ul, :scope > ol"
+    );
   }
 
   // src/features/audio/hooks/useAudioPlayer.ts
@@ -54070,6 +54075,10 @@ function useAtomValueWithDelay<Value>(
           return;
         }
         const html = segmentsAttr ? rebuildSegmentedInnerHtml(segmentsAttr, renderedHtml) : renderedHtml;
+        const hasStructuralChildren = htmlElement.querySelector(
+          ":scope > div, :scope > section, :scope > table, :scope > ul, :scope > ol"
+        );
+        if (hasStructuralChildren) return;
         if (htmlElement.hasAttribute("data-tts-original-html")) {
           htmlElement.setAttribute("data-tts-original-html", html);
         }
