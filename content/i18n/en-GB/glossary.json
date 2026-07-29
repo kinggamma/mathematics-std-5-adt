@@ -1,0 +1,1505 @@
+{
+  "addition": {
+    "word": "addition",
+    "definition": "the process of joining numbers to find the total",
+    "variations": [
+      "addition",
+      "add",
+      "adding",
+      "added"
+    ],
+    "emoji": "➕🧮",
+    "id": "gl001"
+  },
+  "algebra": {
+    "word": "algebra",
+    "definition": "a branch of mathematics that uses letters and numbers to represent values and solve problems",
+    "variations": [
+      "algebra"
+    ],
+    "emoji": "🔤➕",
+    "id": "gl002"
+  },
+  "algebraic expression": {
+    "word": "algebraic expression",
+    "definition": "a mathematical phrase made of numbers, letters, and operation signs",
+    "variations": [
+      "algebraic expression",
+      "algebraic expressions"
+    ],
+    "emoji": "🔤🧮",
+    "id": "gl003"
+  },
+  "amount": {
+    "word": "amount",
+    "definition": "a quantity or total of something, especially money",
+    "variations": [
+      "amount",
+      "amounts"
+    ],
+    "emoji": "💰",
+    "id": "gl004"
+  },
+  "approximate": {
+    "word": "approximate",
+    "definition": "close to the exact value but not exactly the same",
+    "variations": [
+      "approximate",
+      "approximately",
+      "approximated",
+      "approximation",
+      "approximations"
+    ],
+    "emoji": "📏≈",
+    "id": "gl005"
+  },
+  "area": {
+    "word": "area",
+    "definition": "the size of a surface or flat space",
+    "variations": [
+      "area",
+      "areas"
+    ],
+    "emoji": "⬜📐",
+    "id": "gl006"
+  },
+  "arithmetic operation": {
+    "word": "arithmetic operation",
+    "definition": "a math action such as addition, subtraction, multiplication, or division",
+    "variations": [
+      "arithmetic operation",
+      "arithmetic operations",
+      "operation",
+      "operations"
+    ],
+    "emoji": "➕➖✖️",
+    "id": "gl007"
+  },
+  "arrange": {
+    "word": "arrange",
+    "definition": "to put things in a correct or clear order",
+    "variations": [
+      "arrange",
+      "arranges",
+      "arranged",
+      "arranging"
+    ],
+    "emoji": "↕️📋",
+    "id": "gl008"
+  },
+  "average": {
+    "word": "average",
+    "definition": "a number that shows the usual or middle value in a group; it is found by adding all values and dividing by how many there are",
+    "variations": [
+      "average",
+      "averages"
+    ],
+    "emoji": "📊➗",
+    "id": "gl009"
+  },
+  "balance": {
+    "word": "balance",
+    "definition": "the money left after spending or the amount in an account",
+    "variations": [
+      "balance",
+      "balances"
+    ],
+    "emoji": "⚖️💰",
+    "id": "gl010"
+  },
+  "balanced": {
+    "word": "balanced",
+    "definition": "having equal value on both sides",
+    "variations": [
+      "balanced",
+      "balance",
+      "balances",
+      "balancing"
+    ],
+    "emoji": "⚖️🟰",
+    "id": "gl011"
+  },
+  "bank account": {
+    "word": "bank account",
+    "definition": "an account at a bank where money is kept",
+    "variations": [
+      "bank account",
+      "bank accounts"
+    ],
+    "emoji": "🏦📒",
+    "id": "gl012"
+  },
+  "barrel": {
+    "word": "barrel",
+    "definition": "a large round container used for storing liquids",
+    "variations": [
+      "barrel",
+      "barrels"
+    ],
+    "emoji": "🛢️",
+    "id": "gl013"
+  },
+  "beam balance": {
+    "word": "beam balance",
+    "definition": "a tool used to measure mass by comparing objects",
+    "variations": [
+      "beam balance",
+      "beam balances"
+    ],
+    "emoji": "⚖️🛠️",
+    "id": "gl014"
+  },
+  "both sides": {
+    "word": "both sides",
+    "definition": "The two parts of an equation, one on each side of the equal sign.",
+    "variations": [
+      "both sides"
+    ],
+    "emoji": "↔️🟰",
+    "id": "gl015"
+  },
+  "budget": {
+    "word": "budget",
+    "definition": "a plan showing how much money will be spent",
+    "variations": [
+      "budget",
+      "budgets",
+      "budgeted",
+      "budgeting"
+    ],
+    "emoji": "📋💵",
+    "id": "gl016"
+  },
+  "buying price": {
+    "word": "buying price",
+    "definition": "the price paid to buy something",
+    "variations": [
+      "buying price",
+      "buying prices"
+    ],
+    "emoji": "🛒💵",
+    "id": "gl017"
+  },
+  "calculation": {
+    "word": "calculation",
+    "definition": "the process of finding an answer using mathematics",
+    "variations": [
+      "calculation",
+      "calculations",
+      "calculate",
+      "calculates",
+      "calculated",
+      "calculating"
+    ],
+    "emoji": "➕➗🧮",
+    "id": "gl018"
+  },
+  "capacity": {
+    "word": "capacity",
+    "definition": "the amount that a container can hold",
+    "variations": [
+      "capacity",
+      "capacities"
+    ],
+    "emoji": "🫙💧",
+    "id": "gl019"
+  },
+  "capital": {
+    "word": "capital",
+    "definition": "money used to start or run a business",
+    "variations": [
+      "capital"
+    ],
+    "emoji": "🏦💰",
+    "id": "gl020"
+  },
+  "centimetre": {
+    "word": "centimetre",
+    "definition": "a unit of length equal to 10 millimetres",
+    "variations": [
+      "centimetre",
+      "centimetres"
+    ],
+    "emoji": "📏",
+    "id": "gl021"
+  },
+  "circle": {
+    "word": "circle",
+    "definition": "a round flat shape with every point on its edge the same distance from the centre",
+    "variations": [
+      "circle",
+      "circles",
+      "circular"
+    ],
+    "emoji": "⭕",
+    "id": "gl022"
+  },
+  "circumference": {
+    "word": "circumference",
+    "definition": "the distance all the way around a circle",
+    "variations": [
+      "circumference",
+      "circumferences"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl023"
+  },
+  "coefficient": {
+    "word": "coefficient",
+    "definition": "the number that multiplies a variable in a term",
+    "variations": [
+      "coefficient",
+      "coefficients"
+    ],
+    "emoji": "🔢🔤",
+    "id": "gl024"
+  },
+  "collect": {
+    "word": "collect",
+    "definition": "To bring like terms together in an equation.",
+    "variations": [
+      "collect",
+      "collects",
+      "collected",
+      "collecting"
+    ],
+    "emoji": "📥🧩",
+    "id": "gl025"
+  },
+  "column": {
+    "word": "column",
+    "definition": "a vertical line of numbers or words in a table or list",
+    "variations": [
+      "column",
+      "columns"
+    ],
+    "emoji": "📊",
+    "id": "gl026"
+  },
+  "commodity": {
+    "word": "commodity",
+    "definition": "a useful item or product that can be bought or sold",
+    "variations": [
+      "commodity",
+      "commodities"
+    ],
+    "emoji": "📦🛒",
+    "id": "gl027"
+  },
+  "common denominator": {
+    "word": "common denominator",
+    "definition": "a denominator that is the same for two or more fractions.",
+    "variations": [
+      "common denominators"
+    ],
+    "emoji": "🤝➗",
+    "id": "gl028"
+  },
+  "common factor": {
+    "word": "common factor",
+    "definition": "a factor that two or more numbers share",
+    "variations": [
+      "common factors"
+    ],
+    "emoji": "🤝🧩",
+    "id": "gl029"
+  },
+  "common multiple": {
+    "word": "common multiple",
+    "definition": "A common multiple is a number that is a multiple of two or more numbers.",
+    "variations": [
+      "common multiple",
+      "common multiples"
+    ],
+    "emoji": "🤝✖️",
+    "id": "gl030"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "an ability or skill to do something well",
+    "variations": [
+      "competency",
+      "competencies"
+    ],
+    "emoji": "🎯✅",
+    "id": "gl031"
+  },
+  "constant": {
+    "word": "constant",
+    "definition": "a value that stays the same",
+    "variations": [
+      "constant",
+      "constants"
+    ],
+    "emoji": "🔒📘",
+    "id": "gl032"
+  },
+  "convert": {
+    "word": "convert",
+    "definition": "to change a number from one form to another, such as from a decimal to a fraction",
+    "variations": [
+      "convert",
+      "converts",
+      "converted",
+      "converting"
+    ],
+    "emoji": "🔄🔢",
+    "id": "gl033"
+  },
+  "cost": {
+    "word": "cost",
+    "definition": "the amount of money needed to buy or make something",
+    "variations": [
+      "cost",
+      "costs"
+    ],
+    "emoji": "💲🧾",
+    "id": "gl034"
+  },
+  "counter": {
+    "word": "counter",
+    "definition": "a small object used to help count or show numbers",
+    "variations": [
+      "counter",
+      "counters"
+    ],
+    "emoji": "🔵🔢",
+    "id": "gl035"
+  },
+  "counting number": {
+    "word": "counting number",
+    "definition": "a number used for counting, such as 1, 2, 3, 4, and so on",
+    "variations": [
+      "counting numbers"
+    ],
+    "emoji": "🔢☝️",
+    "id": "gl036"
+  },
+  "decagram": {
+    "word": "decagram",
+    "definition": "a unit of mass equal to ten grams",
+    "variations": [
+      "decagram",
+      "decagrams",
+      "dag"
+    ],
+    "emoji": "⚖️📦",
+    "id": "gl037"
+  },
+  "decametre": {
+    "word": "decametre",
+    "definition": "a unit of length equal to 10 metres",
+    "variations": [
+      "decametre",
+      "decametres"
+    ],
+    "emoji": "📏",
+    "id": "gl038"
+  },
+  "decigram": {
+    "word": "decigram",
+    "definition": "a unit of mass equal to one tenth of a gram",
+    "variations": [
+      "decigram",
+      "decigrams",
+      "dg"
+    ],
+    "emoji": "⚖️📘",
+    "id": "gl039"
+  },
+  "decimal": {
+    "word": "decimal",
+    "definition": "a number that has a point and shows parts of a whole, such as 0.5 or 12.34",
+    "variations": [
+      "decimal",
+      "decimals"
+    ],
+    "emoji": "🔢📍",
+    "id": "gl040"
+  },
+  "decimal place": {
+    "word": "decimal place",
+    "definition": "the position of a digit after the decimal point",
+    "variations": [
+      "decimal place",
+      "decimal places"
+    ],
+    "emoji": "📍🔢",
+    "id": "gl041"
+  },
+  "decimal point": {
+    "word": "decimal point",
+    "definition": "the dot in a decimal number that separates the whole number part from the fractional part",
+    "variations": [
+      "decimal point",
+      "decimal points"
+    ],
+    "emoji": "📍🔢",
+    "id": "gl042"
+  },
+  "decimetre": {
+    "word": "decimetre",
+    "definition": "a unit of length equal to 10 centimetres",
+    "variations": [
+      "decimetre",
+      "decimetres"
+    ],
+    "emoji": "📏",
+    "id": "gl043"
+  },
+  "deduce": {
+    "word": "deduce",
+    "definition": "to work out or reach an answer by using facts or reasoning",
+    "variations": [
+      "deduce",
+      "deduces",
+      "deduced",
+      "deducing"
+    ],
+    "emoji": "🧠🔍",
+    "id": "gl044"
+  },
+  "denominator": {
+    "word": "denominator",
+    "definition": "the bottom number in a fraction. It shows how many equal parts make one whole.",
+    "variations": [
+      "denominators"
+    ],
+    "emoji": "⬇️➗",
+    "id": "gl045"
+  },
+  "denominator of 10, 100, or 1,000": {
+    "word": "denominator of 10, 100, or 1,000",
+    "definition": "the bottom number used when writing decimals as fractions, depending on how many decimal places the decimal has",
+    "variations": [
+      "denominator of 10",
+      "denominator of 100",
+      "denominator of 1,000"
+    ],
+    "emoji": "🔟💯🔢",
+    "id": "gl046"
+  },
+  "deposit": {
+    "word": "deposit",
+    "definition": "to put money into a bank account",
+    "variations": [
+      "deposit",
+      "deposits",
+      "deposited",
+      "depositing"
+    ],
+    "emoji": "🏦💵",
+    "id": "gl047"
+  },
+  "diameter": {
+    "word": "diameter",
+    "definition": "a straight line across a circle that passes through the centre",
+    "variations": [
+      "diameter",
+      "diameters"
+    ],
+    "emoji": "⭕↔️",
+    "id": "gl048"
+  },
+  "divide": {
+    "word": "divide",
+    "definition": "to split into equal parts or find how many times one number fits into another",
+    "variations": [
+      "divide",
+      "divided",
+      "dividing",
+      "division"
+    ],
+    "emoji": "➗🧮",
+    "id": "gl049"
+  },
+  "divisible": {
+    "word": "divisible",
+    "definition": "able to be divided by a number exactly, with no remainder",
+    "variations": [
+      "divide",
+      "divides",
+      "divided",
+      "divisibility"
+    ],
+    "emoji": "➗✅",
+    "id": "gl050"
+  },
+  "division": {
+    "word": "division",
+    "definition": "the process of sharing or separating a number into equal parts",
+    "variations": [
+      "division",
+      "divide",
+      "divides",
+      "divided",
+      "dividing"
+    ],
+    "emoji": "➗🔢",
+    "id": "gl051"
+  },
+  "equal": {
+    "word": "equal",
+    "definition": "having the same amount, size, or value",
+    "variations": [
+      "equal",
+      "equally"
+    ],
+    "emoji": "⚖️✅",
+    "id": "gl052"
+  },
+  "equal sign": {
+    "word": "equal sign",
+    "definition": "the symbol = that shows two sides have the same value",
+    "variations": [
+      "equal sign",
+      "equal signs"
+    ],
+    "emoji": "🟰",
+    "id": "gl053"
+  },
+  "equally shared": {
+    "word": "equally shared",
+    "definition": "divided so that each person or group gets the same amount",
+    "variations": [
+      "equally share",
+      "equally shared",
+      "equally shares",
+      "equally sharing"
+    ],
+    "emoji": "🤝➗",
+    "id": "gl054"
+  },
+  "equation": {
+    "word": "equation",
+    "definition": "a mathematical statement that shows two expressions are equal",
+    "variations": [
+      "equation",
+      "equations"
+    ],
+    "emoji": "🟰🧮",
+    "id": "gl055"
+  },
+  "equivalent fraction": {
+    "word": "equivalent fraction",
+    "definition": "a fraction that has the same value as another fraction, even if the numbers are different.",
+    "variations": [
+      "equivalent fractions"
+    ],
+    "emoji": "⚖️➗",
+    "id": "gl056"
+  },
+  "even number": {
+    "word": "even number",
+    "definition": "a number that can be divided by 2 with no remainder",
+    "variations": [
+      "even numbers"
+    ],
+    "emoji": "2️⃣➗",
+    "id": "gl057"
+  },
+  "expenditure": {
+    "word": "expenditure",
+    "definition": "money that is spent",
+    "variations": [
+      "expenditure",
+      "expenditures"
+    ],
+    "emoji": "💸🧾",
+    "id": "gl058"
+  },
+  "expression": {
+    "word": "expression",
+    "definition": "a group of numbers, variables, and operation signs written together in math",
+    "variations": [
+      "expression",
+      "expressions",
+      "algebraic expression",
+      "algebraic expressions"
+    ],
+    "emoji": "🧮✏️",
+    "id": "gl059"
+  },
+  "fabric": {
+    "word": "fabric",
+    "definition": "cloth used for making clothes or other materials",
+    "variations": [
+      "fabric",
+      "fabrics"
+    ],
+    "emoji": "🧵👕",
+    "id": "gl060"
+  },
+  "factor": {
+    "word": "factor",
+    "definition": "a whole number that divides another number exactly, with no remainder",
+    "variations": [
+      "factors"
+    ],
+    "emoji": "🧩➗",
+    "id": "gl061"
+  },
+  "financial mathematics": {
+    "word": "financial mathematics",
+    "definition": "the part of mathematics that deals with money, buying, selling, profit, and loss",
+    "variations": [
+      "financial mathematics"
+    ],
+    "emoji": "➕💵📊",
+    "id": "gl062"
+  },
+  "formula": {
+    "word": "formula",
+    "definition": "a rule written with numbers or symbols that shows how to calculate something",
+    "variations": [
+      "formula",
+      "formulas",
+      "formulae"
+    ],
+    "emoji": "🧮📘",
+    "id": "gl063"
+  },
+  "fraction": {
+    "word": "fraction",
+    "definition": "a number that shows equal parts of a whole, such as 1/2 or 3/4",
+    "variations": [
+      "fraction",
+      "fractions"
+    ],
+    "emoji": "➗🧩",
+    "id": "gl064"
+  },
+  "GCF": {
+    "word": "GCF",
+    "definition": "GCF means Greatest Common Factor. It is the biggest factor that two or more numbers share.",
+    "variations": [
+      "GCF",
+      "greatest common factor",
+      "greatest common factors"
+    ],
+    "emoji": "🏆➗",
+    "id": "gl065"
+  },
+  "gram": {
+    "word": "gram",
+    "definition": "a unit of mass used to measure light objects",
+    "variations": [
+      "gram",
+      "grams",
+      "g"
+    ],
+    "emoji": "⚖️🪶",
+    "id": "gl066"
+  },
+  "Greatest Common Factor": {
+    "word": "Greatest Common Factor",
+    "definition": "the largest factor that two or more numbers have in common",
+    "variations": [
+      "GCF",
+      "greatest common factors"
+    ],
+    "emoji": "🏆🤝🧩",
+    "id": "gl067"
+  },
+  "improper fraction": {
+    "word": "improper fraction",
+    "definition": "a fraction in which the top number is greater than or equal to the bottom number.",
+    "variations": [
+      "improper fractions"
+    ],
+    "emoji": "➗🔢",
+    "id": "gl068"
+  },
+  "invoice": {
+    "word": "invoice",
+    "definition": "a written list of items bought or sold and their prices",
+    "variations": [
+      "invoice",
+      "invoices"
+    ],
+    "emoji": "🧾💰",
+    "id": "gl069"
+  },
+  "kilogram": {
+    "word": "kilogram",
+    "definition": "a unit of mass equal to one thousand grams",
+    "variations": [
+      "kilogram",
+      "kilograms",
+      "kg"
+    ],
+    "emoji": "⚖️🧺",
+    "id": "gl070"
+  },
+  "kilometre": {
+    "word": "kilometre",
+    "definition": "a unit of length equal to 1000 metres",
+    "variations": [
+      "kilometre",
+      "kilometres"
+    ],
+    "emoji": "🛣️📏",
+    "id": "gl071"
+  },
+  "LCM": {
+    "word": "LCM",
+    "definition": "LCM means Lowest Common Multiple. It is the smallest number that is a multiple of two or more given numbers.",
+    "variations": [
+      "LCM",
+      "lowest common multiple",
+      "lowest common multiples"
+    ],
+    "emoji": "📉✖️🔢",
+    "id": "gl072"
+  },
+  "least common denominator": {
+    "word": "least common denominator",
+    "definition": "the smallest common denominator that two or more fractions can share.",
+    "variations": [
+      "least common denominators"
+    ],
+    "emoji": "📏➗",
+    "id": "gl073"
+  },
+  "least common multiple": {
+    "word": "least common multiple",
+    "definition": "the smallest number that two or more numbers can divide into exactly",
+    "variations": [
+      "least common multiple",
+      "least common multiples",
+      "LCM"
+    ],
+    "emoji": "📐🔢",
+    "id": "gl074"
+  },
+  "left-hand side": {
+    "word": "left-hand side",
+    "definition": "The part of an equation that is to the left of the equal sign.",
+    "variations": [
+      "left-hand side",
+      "left hand side"
+    ],
+    "emoji": "⬅️🟰",
+    "id": "gl075"
+  },
+  "length": {
+    "word": "length",
+    "definition": "how long something is from one end to the other",
+    "variations": [
+      "length",
+      "lengths"
+    ],
+    "emoji": "📏",
+    "id": "gl076"
+  },
+  "like terms": {
+    "word": "like terms",
+    "definition": "terms that have the same variable or the same variables",
+    "variations": [
+      "like term",
+      "like terms"
+    ],
+    "emoji": "🤝🔤",
+    "id": "gl077"
+  },
+  "litre": {
+    "word": "litre",
+    "definition": "a unit of volume used for measuring liquids",
+    "variations": [
+      "litre",
+      "litres",
+      "L"
+    ],
+    "emoji": "💧🥛",
+    "id": "gl078"
+  },
+  "long division": {
+    "word": "long division",
+    "definition": "a step-by-step method for dividing numbers, especially larger numbers",
+    "variations": [
+      "long division"
+    ],
+    "emoji": "➗📝",
+    "id": "gl079"
+  },
+  "loss": {
+    "word": "loss",
+    "definition": "money lost when the selling price is less than the buying price",
+    "variations": [
+      "loss",
+      "losses"
+    ],
+    "emoji": "📉💸",
+    "id": "gl080"
+  },
+  "lowest common multiple": {
+    "word": "lowest common multiple",
+    "definition": "the smallest number that two or more numbers can divide into exactly.",
+    "variations": [
+      "lowest common multiples",
+      "LCM"
+    ],
+    "emoji": "🔢📉",
+    "id": "gl081"
+  },
+  "mass": {
+    "word": "mass",
+    "definition": "the amount of matter in something; in school, it is often measured as how heavy something is",
+    "variations": [
+      "mass",
+      "masses"
+    ],
+    "emoji": "⚖️🪨",
+    "id": "gl082"
+  },
+  "measure": {
+    "word": "measure",
+    "definition": "to find the size, length, amount, or weight of something",
+    "variations": [
+      "measure",
+      "measures",
+      "measured",
+      "measuring",
+      "measurement",
+      "measurements"
+    ],
+    "emoji": "📏📐",
+    "id": "gl083"
+  },
+  "measurement": {
+    "word": "measurement",
+    "definition": "the act of finding the size, length, weight, or amount of something",
+    "variations": [
+      "measurement",
+      "measurements"
+    ],
+    "emoji": "📏📐",
+    "id": "gl084"
+  },
+  "metre": {
+    "word": "metre",
+    "definition": "a basic unit of length in the metric system",
+    "variations": [
+      "metre",
+      "metres"
+    ],
+    "emoji": "📏",
+    "id": "gl085"
+  },
+  "metric unit": {
+    "word": "metric unit",
+    "definition": "a standard unit used in the metric system, such as metre, centimetre, or kilogram",
+    "variations": [
+      "metric unit",
+      "metric units"
+    ],
+    "emoji": "📏📐",
+    "id": "gl086"
+  },
+  "metric units": {
+    "word": "metric units",
+    "definition": "standard units used for measuring length, mass, and volume, such as metre, kilogram, and litre",
+    "variations": [
+      "metric unit",
+      "metric units"
+    ],
+    "emoji": "📏⚖️🧪",
+    "id": "gl087"
+  },
+  "milligram": {
+    "word": "milligram",
+    "definition": "a very small unit of mass equal to one thousandth of a gram",
+    "variations": [
+      "milligram",
+      "milligrams",
+      "mg"
+    ],
+    "emoji": "⚖️🔬",
+    "id": "gl088"
+  },
+  "millilitre": {
+    "word": "millilitre",
+    "definition": "a small unit of volume equal to one thousandth of a litre",
+    "variations": [
+      "millilitre",
+      "millilitres",
+      "mL"
+    ],
+    "emoji": "💧🧪",
+    "id": "gl089"
+  },
+  "millimetre": {
+    "word": "millimetre",
+    "definition": "a very small unit of length in the metric system",
+    "variations": [
+      "millimetre",
+      "millimetres"
+    ],
+    "emoji": "📏",
+    "id": "gl090"
+  },
+  "mixed number": {
+    "word": "mixed number",
+    "definition": "a number made of a whole number and a fraction together.",
+    "variations": [
+      "mixed numbers"
+    ],
+    "emoji": "🔢➕",
+    "id": "gl091"
+  },
+  "multiple": {
+    "word": "multiple",
+    "definition": "a number made by multiplying another number by a whole number",
+    "variations": [
+      "multiple",
+      "multiples"
+    ],
+    "emoji": "✖️🔢",
+    "id": "gl092"
+  },
+  "multiply": {
+    "word": "multiply",
+    "definition": "to add equal groups or find the product of numbers",
+    "variations": [
+      "multiply",
+      "multiplied",
+      "multiplying",
+      "multiplication"
+    ],
+    "emoji": "✖️🔢",
+    "id": "gl093"
+  },
+  "natural number": {
+    "word": "natural number",
+    "definition": "a counting number used for counting objects",
+    "variations": [
+      "natural number",
+      "natural numbers"
+    ],
+    "emoji": "🔢🧮",
+    "id": "gl094"
+  },
+  "numerator": {
+    "word": "numerator",
+    "definition": "the top number in a fraction. It shows how many parts are being counted.",
+    "variations": [
+      "numerators"
+    ],
+    "emoji": "⬆️🔢",
+    "id": "gl095"
+  },
+  "obtain": {
+    "word": "obtain",
+    "definition": "to get or receive something",
+    "variations": [
+      "obtain",
+      "obtains",
+      "obtained",
+      "obtaining"
+    ],
+    "emoji": "🫴",
+    "id": "gl096"
+  },
+  "odd number": {
+    "word": "odd number",
+    "definition": "a number that cannot be divided by 2 exactly; when divided by 2, it leaves a remainder of 1",
+    "variations": [
+      "odd numbers"
+    ],
+    "emoji": "1️⃣➗",
+    "id": "gl097"
+  },
+  "operation": {
+    "word": "operation",
+    "definition": "a math action such as addition, subtraction, multiplication, or division",
+    "variations": [
+      "operation",
+      "operations"
+    ],
+    "emoji": "➕➖✖️",
+    "id": "gl098"
+  },
+  "opposite": {
+    "word": "opposite",
+    "definition": "Something that works in a completely different way. In math, subtraction is the opposite of addition, and division is the opposite of multiplication.",
+    "variations": [
+      "opposite",
+      "opposites"
+    ],
+    "emoji": "↔️🔄",
+    "id": "gl099"
+  },
+  "pattern": {
+    "word": "pattern",
+    "definition": "numbers or shapes arranged in a rule that repeats or follows an order",
+    "variations": [
+      "pattern",
+      "patterns"
+    ],
+    "emoji": "🔁🔢",
+    "id": "gl100"
+  },
+  "penalty": {
+    "word": "penalty",
+    "definition": "money that must be paid because of breaking a rule or failing to do something",
+    "variations": [
+      "penalty",
+      "penalties"
+    ],
+    "emoji": "⚠️💸",
+    "id": "gl101"
+  },
+  "percentage": {
+    "word": "percentage",
+    "definition": "a number out of 100 used to compare amounts",
+    "variations": [
+      "percentage",
+      "percentages"
+    ],
+    "emoji": "💯📊",
+    "id": "gl102"
+  },
+  "Pi": {
+    "word": "Pi",
+    "definition": "a special number, written as π, used with circles; it is about 3.14",
+    "variations": [
+      "Pi",
+      "pi",
+      "π"
+    ],
+    "emoji": "π⭕",
+    "id": "gl103"
+  },
+  "power": {
+    "word": "power",
+    "definition": "the small raised number that shows how many times a number or variable is multiplied by itself",
+    "variations": [
+      "power",
+      "powers"
+    ],
+    "emoji": "🔼²",
+    "id": "gl104"
+  },
+  "prime factor": {
+    "word": "prime factor",
+    "definition": "a factor that is also a prime number",
+    "variations": [
+      "prime factors"
+    ],
+    "emoji": "⭐🧩",
+    "id": "gl105"
+  },
+  "prime number": {
+    "word": "prime number",
+    "definition": "a counting number greater than 1 that has only two factors: 1 and itself",
+    "variations": [
+      "prime numbers"
+    ],
+    "emoji": "🔢⭐",
+    "id": "gl106"
+  },
+  "product": {
+    "word": "product",
+    "definition": "the answer you get when you multiply numbers",
+    "variations": [
+      "products"
+    ],
+    "emoji": "✖️🧮",
+    "id": "gl107"
+  },
+  "profit": {
+    "word": "profit",
+    "definition": "the extra money made when the selling price is more than the buying price",
+    "variations": [
+      "profit",
+      "profits",
+      "profitable"
+    ],
+    "emoji": "📈💰",
+    "id": "gl108"
+  },
+  "proper fraction": {
+    "word": "proper fraction",
+    "definition": "a fraction in which the top number is smaller than the bottom number.",
+    "variations": [
+      "proper fractions"
+    ],
+    "emoji": "➗✅",
+    "id": "gl109"
+  },
+  "quantity": {
+    "word": "quantity",
+    "definition": "the number or amount of something",
+    "variations": [
+      "quantity",
+      "quantities"
+    ],
+    "emoji": "🔢📦",
+    "id": "gl110"
+  },
+  "quarter circle": {
+    "word": "quarter circle",
+    "definition": "one of four equal parts of a circle",
+    "variations": [
+      "quarter circle",
+      "quarter circles",
+      "quarter-circular"
+    ],
+    "emoji": "◔⭕",
+    "id": "gl111"
+  },
+  "radius": {
+    "word": "radius",
+    "definition": "the distance from the centre of a circle to its edge",
+    "variations": [
+      "radius",
+      "radii",
+      "radiuses"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl112"
+  },
+  "ratio": {
+    "word": "ratio",
+    "definition": "a comparison of two quantities by division",
+    "variations": [
+      "ratio",
+      "ratios"
+    ],
+    "emoji": "⚖️➗",
+    "id": "gl113"
+  },
+  "record": {
+    "word": "record",
+    "definition": "to write down information so it can be kept and used later",
+    "variations": [
+      "record",
+      "records",
+      "recorded",
+      "recording"
+    ],
+    "emoji": "📝",
+    "id": "gl114"
+  },
+  "rectangle": {
+    "word": "rectangle",
+    "definition": "a flat shape with four sides and four right angles, with opposite sides equal",
+    "variations": [
+      "rectangle",
+      "rectangles"
+    ],
+    "emoji": "▭📐",
+    "id": "gl115"
+  },
+  "relationship": {
+    "word": "relationship",
+    "definition": "the way two or more things are connected",
+    "variations": [
+      "relationship",
+      "relationships"
+    ],
+    "emoji": "🔗",
+    "id": "gl116"
+  },
+  "remain": {
+    "word": "remain",
+    "definition": "To stay left after something is taken away or changed.",
+    "variations": [
+      "remain",
+      "remains",
+      "remained",
+      "remaining"
+    ],
+    "emoji": "↩️📌",
+    "id": "gl117"
+  },
+  "remainder": {
+    "word": "remainder",
+    "definition": "the amount left over after division when a number does not divide exactly",
+    "variations": [
+      "remainders"
+    ],
+    "emoji": "➖🧮",
+    "id": "gl118"
+  },
+  "salary": {
+    "word": "salary",
+    "definition": "money that a person is paid regularly for doing a job",
+    "variations": [
+      "salary",
+      "salaries"
+    ],
+    "emoji": "💼💵",
+    "id": "gl119"
+  },
+  "selling price": {
+    "word": "selling price",
+    "definition": "the price at which something is sold",
+    "variations": [
+      "selling price",
+      "selling prices"
+    ],
+    "emoji": "🏷️💰",
+    "id": "gl120"
+  },
+  "semi-circle": {
+    "word": "semi-circle",
+    "definition": "half of a circle",
+    "variations": [
+      "semi-circle",
+      "semi-circles",
+      "semicircle",
+      "semicircles",
+      "semi-circular"
+    ],
+    "emoji": "◐⭕",
+    "id": "gl121"
+  },
+  "simple equation": {
+    "word": "simple equation",
+    "definition": "an equation with one variable, and the variable has power one",
+    "variations": [
+      "simple equation",
+      "simple equations"
+    ],
+    "emoji": "🧮1️⃣",
+    "id": "gl122"
+  },
+  "simplify": {
+    "word": "simplify",
+    "definition": "to make a fraction easier or smaller in form without changing its value.",
+    "variations": [
+      "simplified",
+      "simplifies",
+      "simplifying"
+    ],
+    "emoji": "✂️➗",
+    "id": "gl123"
+  },
+  "solution": {
+    "word": "solution",
+    "definition": "the worked-out answer to a problem",
+    "variations": [
+      "solution",
+      "solutions"
+    ],
+    "emoji": "✅🧠",
+    "id": "gl124"
+  },
+  "speed": {
+    "word": "speed",
+    "definition": "how fast something moves",
+    "variations": [
+      "speed",
+      "speeds"
+    ],
+    "emoji": "🏃⏱️",
+    "id": "gl125"
+  },
+  "square": {
+    "word": "square",
+    "definition": "the result when a number or variable is multiplied by itself",
+    "variations": [
+      "square",
+      "squares",
+      "squared"
+    ],
+    "emoji": "²🔢",
+    "id": "gl126"
+  },
+  "subject": {
+    "word": "subject",
+    "definition": "the variable or letter in a formula that is being found or made to stand alone",
+    "variations": [
+      "subject",
+      "subjects"
+    ],
+    "emoji": "🔤📘",
+    "id": "gl127"
+  },
+  "subtract": {
+    "word": "subtract",
+    "definition": "To take one number away from another.",
+    "variations": [
+      "subtract",
+      "subtracts",
+      "subtracted",
+      "subtracting"
+    ],
+    "emoji": "➖✂️",
+    "id": "gl128"
+  },
+  "subtraction": {
+    "word": "subtraction",
+    "definition": "the process of taking one number away from another",
+    "variations": [
+      "subtraction",
+      "subtract",
+      "subtracting",
+      "subtracted"
+    ],
+    "emoji": "➖🧮",
+    "id": "gl129"
+  },
+  "sufficient": {
+    "word": "sufficient",
+    "definition": "enough for a purpose",
+    "variations": [
+      "sufficient",
+      "insufficient"
+    ],
+    "emoji": "✅",
+    "id": "gl130"
+  },
+  "sum": {
+    "word": "sum",
+    "definition": "The total you get when you add numbers.",
+    "variations": [
+      "sum",
+      "sums"
+    ],
+    "emoji": "➕🧮",
+    "id": "gl131"
+  },
+  "symbol": {
+    "word": "symbol",
+    "definition": "a sign or mark that stands for something else",
+    "variations": [
+      "symbol",
+      "symbols"
+    ],
+    "emoji": "🔣",
+    "id": "gl132"
+  },
+  "term": {
+    "word": "term",
+    "definition": "a single part of an algebraic expression, such as 4k or 3x",
+    "variations": [
+      "term",
+      "terms"
+    ],
+    "emoji": "🧩🔤",
+    "id": "gl133"
+  },
+  "thickness": {
+    "word": "thickness",
+    "definition": "the distance from one side of something to the other side through it",
+    "variations": [
+      "thickness",
+      "thicknesses",
+      "thick"
+    ],
+    "emoji": "📚↔️",
+    "id": "gl134"
+  },
+  "three-quarters circle": {
+    "word": "three-quarters circle",
+    "definition": "three out of four equal parts of a circle",
+    "variations": [
+      "three-quarters circle",
+      "three-quarter circle",
+      "three-quarters circles"
+    ],
+    "emoji": "◕⭕",
+    "id": "gl135"
+  },
+  "tonne": {
+    "word": "tonne",
+    "definition": "a large unit of mass equal to one thousand kilograms",
+    "variations": [
+      "tonne",
+      "tonnes",
+      "t"
+    ],
+    "emoji": "⚖️🚚",
+    "id": "gl136"
+  },
+  "treasurer": {
+    "word": "treasurer",
+    "definition": "a person who keeps and manages money for a group",
+    "variations": [
+      "treasurer",
+      "treasurers"
+    ],
+    "emoji": "💼💰",
+    "id": "gl137"
+  },
+  "tree diagram": {
+    "word": "tree diagram",
+    "definition": "a branching picture used to break a number into factors step by step",
+    "variations": [
+      "tree diagrams"
+    ],
+    "emoji": "🌳🧮",
+    "id": "gl138"
+  },
+  "unit price": {
+    "word": "unit price",
+    "definition": "the price for one item",
+    "variations": [
+      "unit price",
+      "unit prices"
+    ],
+    "emoji": "1️⃣💵",
+    "id": "gl139"
+  },
+  "unlike terms": {
+    "word": "unlike terms",
+    "definition": "terms that have different variables, so they cannot be combined by addition or subtraction",
+    "variations": [
+      "unlike term",
+      "unlike terms"
+    ],
+    "emoji": "↔️🔤",
+    "id": "gl140"
+  },
+  "value": {
+    "word": "value",
+    "definition": "the amount or number that a variable or expression represents",
+    "variations": [
+      "value",
+      "values"
+    ],
+    "emoji": "🔢📌",
+    "id": "gl141"
+  },
+  "variable": {
+    "word": "variable",
+    "definition": "a letter or symbol that stands for a number that can change or is unknown",
+    "variations": [
+      "variable",
+      "variables"
+    ],
+    "emoji": "🔠❓",
+    "id": "gl142"
+  },
+  "volume": {
+    "word": "volume",
+    "definition": "the amount of space that something takes up",
+    "variations": [
+      "volume",
+      "volumes"
+    ],
+    "emoji": "🧴📦",
+    "id": "gl143"
+  },
+  "whole number": {
+    "word": "whole number",
+    "definition": "a number with no fraction or decimal part, such as 0, 1, 2, or 3.",
+    "variations": [
+      "whole numbers"
+    ],
+    "emoji": "0️⃣1️⃣🔢",
+    "id": "gl144"
+  },
+  "width": {
+    "word": "width",
+    "definition": "the distance from one side of something to the other side",
+    "variations": [
+      "width",
+      "widths"
+    ],
+    "emoji": "↔️📏",
+    "id": "gl145"
+  }
+}
