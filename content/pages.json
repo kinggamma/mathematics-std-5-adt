@@ -81,11 +81,6 @@
     "page_number": 11
   },
   {
-    "section_id": "pg017_sec002",
-    "href": "pg017_sec002.html",
-    "page_number": 11
-  },
-  {
     "section_id": "pg018_sec001",
     "href": "pg018_sec001.html",
     "page_number": 12
@@ -151,8 +146,8 @@
     "page_number": 23
   },
   {
-    "section_id": "pg030_sec002",
-    "href": "pg030_sec002.html",
+    "section_id": "pg030_sec001",
+    "href": "pg030_sec001.html",
     "page_number": 24
   },
   {
@@ -346,11 +341,6 @@
     "page_number": 55
   },
   {
-    "section_id": "pg061_sec002",
-    "href": "pg061_sec002.html",
-    "page_number": 55
-  },
-  {
     "section_id": "pg062_sec001",
     "href": "pg062_sec001.html",
     "page_number": 56
@@ -368,11 +358,6 @@
   {
     "section_id": "pg065_sec001",
     "href": "pg065_sec001.html",
-    "page_number": 59
-  },
-  {
-    "section_id": "pg065_sec002",
-    "href": "pg065_sec002.html",
     "page_number": 59
   },
   {
@@ -408,11 +393,6 @@
   {
     "section_id": "pg072_sec001",
     "href": "pg072_sec001.html",
-    "page_number": 66
-  },
-  {
-    "section_id": "pg072_sec002",
-    "href": "pg072_sec002.html",
     "page_number": 66
   },
   {
@@ -606,13 +586,13 @@
     "page_number": 95
   },
   {
-    "section_id": "pg102_sec002",
-    "href": "pg102_sec002.html",
+    "section_id": "pg102_sec001",
+    "href": "pg102_sec001.html",
     "page_number": 96
   },
   {
-    "section_id": "pg102_sec003",
-    "href": "pg102_sec003.html",
+    "section_id": "pg102_sec002",
+    "href": "pg102_sec002.html",
     "page_number": 96
   },
   {
@@ -751,6 +731,15 @@
     "page_number": 116
   },
   {
+    "section_id": "pg123_sec001",
+    "href": "pg123_sec001.html",
+    "page_number": 117
+  },
+  {
+    "section_id": "pg123_sec002",
+    "href": "pg123_sec002.html"
+  },
+  {
     "section_id": "pg124_sec001",
     "href": "pg124_sec001.html",
     "page_number": 118
@@ -773,11 +762,6 @@
   {
     "section_id": "pg127_sec001",
     "href": "pg127_sec001.html",
-    "page_number": 121
-  },
-  {
-    "section_id": "pg127_sec002",
-    "href": "pg127_sec002.html",
     "page_number": 121
   },
   {

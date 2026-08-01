@@ -8,7 +8,7 @@ This document describes the structure of this Accessible Digital Textbook (ADT) 
 
 - **Source language**: `en`
 - **Available languages in this bundle**: `en-GB`
-- **Total pages**: 171
+- **Total pages**: 168
 - **Glossary**: yes
 
 ## Quick Overview
@@ -276,7 +276,7 @@ A flat `Record<textId, string>` containing every piece of text in the book. Exam
 ```json
 {
   "pg001_gp001_tx001": "",
-  "pg001_im001": "Green Certificate of Approval from the United Republic of Tanzania, Ministry of Education, Science and Technology. It approves the Mathematics Pupil’s Book Standard Five.",
+  "pg001_im001": "Certificate of Approval from the United Republic of Tanzania, Ministry of Education, Science and Technology, approving Mathematics Pupil’s Book Standard Five for primary schools, signed by the Commissioner for Education.",
   "gl001": "addition",
   "gl001_def": "the process of joining numbers to find the total"
 }
@@ -347,16 +347,6 @@ Controls which features the reader UI enables. This book's config:
     "siteId": 0,
     "trackerUrl": "https://unisitetracker.unicef.io/matomo.php",
     "srcUrl": "https://unisitetracker.unicef.io/matomo.js"
-  },
-  "defaultSettings": {
-    "dockLayout": {
-      "width": "full",
-      "position": "bottom",
-      "align": "spread"
-    },
-    "theme": "dark",
-    "iconSize": "md",
-    "reduceMotion": false
   },
   "lockedSettings": [
     "dockLayout",
