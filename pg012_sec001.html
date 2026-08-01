@@ -16,6 +16,14 @@
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
+      /* Questions 3–10 store each three-column row in one segmented span. */
+      div:has(> span[data-segments]) > span[data-segments] {
+        grid-column: 1 / -1;
+        width: 100%;
+      }
+      div:has(> span[data-segments]) > span:not([data-id]) {
+        display: none;
+      }
     </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
