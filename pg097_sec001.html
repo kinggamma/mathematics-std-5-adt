@@ -16,6 +16,17 @@
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
+      /* Restore conventional long-division rules in the alternative solution. */
+      div[aria-hidden="true"] > div.space-y-1.border-t-2 {
+        border-top: 0;
+        padding-top: 0;
+      }
+      div[aria-hidden="true"] > div.space-y-1.border-t-2 > div {
+        padding: 0.25rem 0.75rem;
+      }
+      div[aria-hidden="true"] > div.space-y-1.border-t-2 > div:nth-child(odd) {
+        border-bottom: 2px solid #374151;
+      }
     </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
