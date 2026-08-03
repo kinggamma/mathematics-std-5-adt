@@ -1,0 +1,37 @@
+{
+  "$comment": "Edit content/i18n/<lang>/texts.json then run tools/regenerate-tts.mjs to re-record only changed lines. Change a voice/model/instructions below to re-record a whole language. Add a category (text, captions, answers, glossary, easy-read) or textId to `exclude` to mute it; remove it to re-record it. Set API keys via the env vars named here.",
+  "exclude": {
+    "categories": [
+      "answers"
+    ],
+    "textIds": []
+  },
+  "languages": {
+    "en-GB": {
+      "provider": "openai",
+      "model": "gpt-4o-mini-tts",
+      "voice": "alloy",
+      "instructions": "Speak in a cheerful and positive tone.",
+      "format": "mp3",
+      "wordHighlighting": true
+    }
+  },
+  "providers": {
+    "openai": {
+      "apiKeyEnv": "OPENAI_API_KEY"
+    },
+    "gemini": {
+      "apiKeyEnv": "GEMINI_API_KEY",
+      "note": "Gemini TTS uses GEMINI_API_KEY; word highlighting still uses OPENAI_API_KEY (Whisper)."
+    },
+    "azure": {
+      "apiKeyEnv": "AZURE_SPEECH_KEY",
+      "region": "",
+      "supported": false,
+      "note": "Azure regeneration is not yet supported by this standalone script — regenerate Azure languages from ADT Studio."
+    }
+  },
+  "whisper": {
+    "apiKeyEnv": "OPENAI_API_KEY"
+  }
+}
