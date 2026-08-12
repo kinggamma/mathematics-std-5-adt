@@ -1,6 +1,6 @@
 {
   "title": "Mathematics Pupil’s Book Standard Five",
-  "bundleVersion": "1",
+  "bundleVersion": "2",
   "languages": {
     "available": [
       "en-GB"
@@ -8,7 +8,7 @@
     "default": "en-GB"
   },
   "features": {
-    "signLanguage": false,
+    "signLanguage": true,
     "easyRead": true,
     "glossary": true,
     "eli5": false,
