@@ -41389,8 +41389,7 @@ function useAtomValueWithDelay<Value>(
       setAspectRatio(null);
     }, [src]);
     (0, import_react13.useEffect)(() => {
-      if (activeMedia !== "tts") return;
-      videoRef.current?.pause();
+      return;
     }, [activeMedia]);
     if (src === null) return null;
     const positioned = position !== null;
@@ -45312,11 +45311,7 @@ function useAtomValueWithDelay<Value>(
       setCurrentIndex(0);
     }, [readAloudMode, stopAndClear, setIsPlaying, setCurrentIndex]);
     (0, import_react20.useEffect)(() => {
-      if (activeMedia !== "sign-language") return;
-      stopAndClear();
-      setIsPlaying(false);
-      setCurrentIndex(0);
-      setReadAloudMode(false);
+      return;
     }, [
       activeMedia,
       stopAndClear,
