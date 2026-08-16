@@ -2338,6 +2338,34 @@
       "audio_mode": "keep",
       "trim_start": null,
       "trim_end": null
+    },
+    "video-1": {
+      "imported_at": "2026-08-16T15:07:48Z",
+      "filename": "sl_cover_sec001.mp4",
+      "section_id": "cover_sec001",
+      "languages": [
+        "en-GB"
+      ],
+      "source_name": "page_1.mp4",
+      "source_size": 1327977,
+      "preset": "copy",
+      "audio_mode": "keep",
+      "trim_start": null,
+      "trim_end": null
+    },
+    "video-44": {
+      "imported_at": "2026-08-16T15:07:48Z",
+      "filename": "sl_pg042_sec001.mp4",
+      "section_id": "pg042_sec001",
+      "languages": [
+        "en-GB"
+      ],
+      "source_name": "page_44.mp4",
+      "source_size": 10314751,
+      "preset": "copy",
+      "audio_mode": "keep",
+      "trim_start": null,
+      "trim_end": null
     }
   }
 }
