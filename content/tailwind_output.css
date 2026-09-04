@@ -8455,3 +8455,28 @@ math mtable { line-height: normal; }
 /* Wide sums scroll instead of overflowing the reading column. */
 math[display="block"] { display: block math; overflow-x: auto; max-width: 100%; }
 }
+.max-w-\[280px\] {
+    max-width: 280px;
+  }
+  .max-w-\[20rem\] {
+    max-width: 20rem;
+  }
+  .max-lg\:max-w-\[18rem\] {
+    @media (width < 64rem) {
+      max-width: 18rem;
+    }
+  }
+  .max-w-\[180px\] {
+    max-width: 180px;
+  }
+  .max-w-\[11rem\] {
+    max-width: 11rem;
+  }
+  .max-w-\[300px\] {
+    max-width: 300px;
+  }
+  .max-lg\:max-w-\[260px\] {
+    @media (width < 64rem) {
+      max-width: 260px;
+    }
+  }
